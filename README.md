@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **g.jivanphysics@gmail.com**
 
-- ⚡ Fun fact **Never ask me how to make an omlette.**
+- ⚡ Fun fact **Never ask me about my secret identity.**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
