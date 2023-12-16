@@ -3,7 +3,16 @@
 <h1 align="center">Hi 👋, I'm Jiwan</h1>
 <h3 align="center">A passionate fullstack developer with interests in applications and concepts of AI/DL.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaniro" alt="vaniro" /></a> </p>
+<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaniro" alt="vaniro" /></a> </p-->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vaniro" alt="vaniro" />
+  </a>
+</p>
+
+<!-- GitHub Readme Stats -->
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=vaniro&show_icons=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Stats)
+
 
 - 💬 Ask me about **react, django, python, deep learning, etc.**
 
