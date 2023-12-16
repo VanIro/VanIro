@@ -1,0 +1,17 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Set your preferred update frequency
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Readme
+        run: |
+          echo '<!-- GitHub Readme Stats -->' >> README.md
+          echo '![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=vaniro&show_icons=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Stats)' >> README.md
