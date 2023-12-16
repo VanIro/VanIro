@@ -75,8 +75,8 @@
   </h3>
   
 </p>
-
-<p align="left">
+<h1></h1>
+<p align="centre">
   <img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniro&show_icons=true&locale=en&layout=compact" alt="vaniro" />
   <img align="left" width="460" height="200" src="https://github-readme-stats.vercel.app/api?username=vaniro&show_icons=true&locale=en" alt="vaniro" />
   <img  align="left" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=vaniro&" alt="vaniro" />
