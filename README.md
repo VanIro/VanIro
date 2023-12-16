@@ -78,8 +78,8 @@
 
 <p align="left">
   <img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniro&show_icons=true&locale=en&layout=compact" alt="vaniro" />
-  <img  align="left" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=vaniro&" alt="vaniro" />
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=vaniro&show_icons=true&locale=en" alt="vaniro" />
+  <img  align="left" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=vaniro&" alt="vaniro" />
 </p>
 
 
