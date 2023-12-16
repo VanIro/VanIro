@@ -1,5 +1,5 @@
-### Hi there 👋
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jivan-guragain-4b5076229/)
+<!--### Hi there 👋
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jivan-guragain-4b5076229/)-->
 <h1 align="center">Hi 👋, I'm Jiwan</h1>
 <h3 align="center">A passionate fullstack developer with interests in applications and concepts of AI/DL.</h3>
 
