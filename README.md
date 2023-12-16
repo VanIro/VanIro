@@ -14,7 +14,7 @@
 <!--![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=vaniro&show_icons=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Stats)-->
 
 
-- 💬 Ask me about **react, django, python, deep learning, etc.**
+- 💬 Ask me about **python, javascript, fastapi, react, django, deep learning, etc.**
 
 - 📫 How to reach me **g.jivanphysics@gmail.com**
 
@@ -26,11 +26,6 @@
 <a href="https://www.leetcode.com/vaniro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaniro" height="30" width="40" /></a>
 </p>
 
-
-<p align="left">
-  <img align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniro&show_icons=true&locale=en&layout=compact" alt="vaniro" />
-  <img align="left" width="1" height="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniro&show_icons=true&locale=en&layout=compact" alt="vaniro" />
-</p>
 <p align="right"> 
   <h3 align="left" style="background-color: #f0f0f0;">Languages and Tools:</h3>
   
@@ -81,8 +76,13 @@
   
 </p>
 
-<p align="center">
+<p align="left">
+  <img align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniro&show_icons=true&locale=en&layout=compact" alt="vaniro" />
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=vaniro&show_icons=true&locale=en" alt="vaniro" />
+</p>
+
+
+<p align="left">
   <img align="left" margin-left="10" width="475" src="https://github-readme-streak-stats.herokuapp.com/?user=vaniro&" alt="vaniro" />
 </p>
 
