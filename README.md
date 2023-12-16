@@ -8,10 +8,11 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vaniro" alt="vaniro" />
   </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaniro" alt="vaniro" />
 </p>
 
 <!-- GitHub Readme Stats -->
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=vaniro&show_icons=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Stats)
+<!--![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=vaniro&show_icons=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Stats)-->
 
 
 - 💬 Ask me about **react, django, python, deep learning, etc.**
