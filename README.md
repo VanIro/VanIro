@@ -27,7 +27,7 @@
 </p>
 
 <p align="right"> 
-  <h2 align="left" style="background-color: #f0f0f0;">Languages and Tools:</h2>
+  <h2 align="left" style="background-color: #f0f0f0;">Languages and Tools That I Have Used:</h2>
   
   <h3 align="center" width="10">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
